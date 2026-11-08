@@ -4,10 +4,13 @@
 [![LLM](https://img.shields.io/badge/LLM-Google%20Gemini%202.5%20Flash-orange.svg)](https://aistudio.google.com/)
 [![Orchestration](https://img.shields.io/badge/Workflow-LangGraph-purple.svg)](https://langchain-ai.github.io/langgraph/)
 [![Testing](https://img.shields.io/badge/Testing-Pytest-green.svg)](https://docs.pytest.org/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://agentic-ai-coding-assistant-ev7pgkwzxpexjg2fszwwbb.streamlit.app/)
 [![UI](https://img.shields.io/badge/UI-Streamlit-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
 Mini Codex is a production-grade, stateful **Agentic AI Coding Assistant** built on **Google Gemini 2.5 Flash**, **LangGraph**, and **Streamlit**. It provides autonomous code explanation, bug detection with Human-in-the-Loop approval, test-driven self-correction, and ChatGPT-style multi-turn conversation sessions.
+
+🚀 **Live Interactive Demo:** [https://agentic-ai-coding-assistant-ev7pgkwzxpexjg2fszwwbb.streamlit.app/]
 
 ---
 
@@ -191,7 +194,11 @@ Open your browser at **`http://localhost:8501`**.
 
 ## ☁️ Streamlit Community Cloud Deployment
 
-You can deploy Mini Codex to the cloud for free using Streamlit Community Cloud:
+The live application is hosted and publicly accessible at:
+
+🌐 **Live Production URL:** [https://agentic-ai-coding-assistant-ev7pgkwzxpexjg2fszwwbb.streamlit.app/]
+
+To deploy your own instance using Streamlit Community Cloud:
 
 1. Push your repository to **GitHub** (ensure `.env` is ignored).
 2. Go to [share.streamlit.io](https://share.streamlit.io/) and log in with GitHub.
